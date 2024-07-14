@@ -5,19 +5,16 @@ Features
 ---
 
 Insertion:
----
 At the beginning of the list
 At the end of the list
 After a specified node
 
 Deletion:
----
 From the beginning of the list
 From the end of the list
 Specific nodes by value
 
 Search:
----
 Find a node by value
 Find the prior node of a specified node
 
